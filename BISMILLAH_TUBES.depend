@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1480865198 source:d:\tubes asd\bismillah tubes\bismillah_tubes\list_child_singlecircular.cpp
+	"list_child_singlecircular.h"
+
+1480845038 d:\tubes asd\bismillah tubes\bismillah_tubes\list_child_singlecircular.h
+	<iostream>
+
+1480836449 source:d:\tubes asd\bismillah tubes\bismillah_tubes\list_parent_double.cpp
+	"list_parent_double.h"
+
+1480836449 d:\tubes asd\bismillah tubes\bismillah_tubes\list_parent_double.h
+	<iostream>
+	"list_child_singlecircular.h"
+
+1480837813 source:d:\tubes asd\bismillah tubes\bismillah_tubes\main.cpp
+	<iostream>
+	"MenuCoding.h"
+	"list_parent_double.h"
+	"list_child_singlecircular.h"
+
+1480836449 d:\tubes asd\bismillah tubes\bismillah_tubes\menucoding.h
+	"list_parent_double.h"
+	"list_child_singlecircular.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1480869667 source:d:\tubes asd\bismillah tubes\bismillah_tubes\menucoding.cpp
+	"MenuCoding.h"
+	"list_parent_double.h"
+	"list_child_singlecircular.h"
+	<iostream>
+
